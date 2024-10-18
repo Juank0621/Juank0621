@@ -8,6 +8,6 @@ Currently, I am advancing my knowledge by studying Artificial Intelligence and M
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,py,sklearn,tensorflow,vscode,fastapi,ai&perline=3" />
+    <img src="https://skillicons.dev/icons?i=azure,py,sklearn,tensorflow,vscode,fastapi,anaconda,sqlite,ai&perline=3" />
   </a>
 </p>
