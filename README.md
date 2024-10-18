@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Juank0621/Juank0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![My Skills](https://skillicons.dev/icons?i=azure,py, sklearn, tensorflow, vscode, fastapi, ai)](https://skillicons.dev)
@@ -11,4 +10,3 @@ My technical skill set includes proficiency in Python and SQL, and I have also g
 
 Currently, I am advancing my knowledge by studying Artificial Intelligence and Machine Learning at Lasalle College in Montreal, while simultaneously pursuing a Master's Degree in Big Data at IMF Smart Education. Additionally, I am developing my French language skills and expanding my business intelligence expertise, preparing myself for a career as a Data Scientist.
 
--->
