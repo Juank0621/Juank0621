@@ -2,7 +2,12 @@
 
 **Juank0621/Juank0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![My Skills](https://skillicons.dev/icons?i=azure,py, sklearn, tensorflow, vscode, fastapi, ai)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,py, sklearn, tensorflow, vscode, fastapi, ai&perline=3" />
+  </a>
+</p>
 
 I am a Computer Engineer with 5 years of hands-on experience in Data Analysis, particularly within the Aviation Industry, and 10 years of service in the Colombian Aerospace Force. I am passionate about technology, business intelligence, and data-driven decision-making, with a solid foundation in data visualization, relational databases (MySQL, PostgreSQL, SQL Server), and Microsoft Excel.
 
