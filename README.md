@@ -16,7 +16,7 @@ Additionally, I possess solid skills in data preprocessing, feature engineering,
 
 ---
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juank0621&theme=tokyonight&show_icons=true&rank_icon=github" alt="Juank0621 GitHub stats">
