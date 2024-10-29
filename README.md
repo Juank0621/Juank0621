@@ -13,4 +13,4 @@ Currently, I am advancing my knowledge by studying Artificial Intelligence and M
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Juank0621 GitHub stats](https://github-readme-stats.vercel.app/api?username=Juank0621&theme=tokyonight&show_icons=true)
