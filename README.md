@@ -11,3 +11,6 @@ Currently, I am advancing my knowledge by studying Artificial Intelligence and M
     <img src="https://skillicons.dev/icons?i=azure,py,sklearn,tensorflow,vscode,fastapi,anaconda,sqlite,ai&perline=3" />
   </a>
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
