@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I am a Computer Engineer with 5 years of hands-on experience in Data Analysis, particularly within the Aviation Industry, and 10 years of service in the Colombian Aerospace Force. I am passionate about technology, business intelligence, and data-driven decision-making, with a solid foundation in data visualization, relational databases (MySQL, PostgreSQL, SQL Server), and Microsoft Excel.
+As a dedicated Computer Engineer with over 5 years of hands-on experience in Data Analysis within the Aviation Industry and ten years working in the Colombian Aerospacial Force, I have developed a strong foundation in data-driven decision-making. Currently, I am expanding my expertise through studies in Artificial Intelligence and Machine Learning at LaSalle College, along with a Master's Degree in Big Data and Business Analytics at IMF Smart Education. My technical skill set includes proficiency in programming languages such as Python and SQL, along with knowledge of machine learning frameworks like TensorFlow and scikit-learn, as well as data visualization and relational databases.
 
-My technical skill set includes proficiency in Python and SQL, and I have also gained expertise in machine learning libraries like scikit-learn, as well as NoSQL databases. I am dedicated to continuous learning and have pursued courses in Big Data, Data Science, Microsoft Azure, and Machine Learning.
-
-Currently, I am advancing my knowledge by studying Artificial Intelligence and Machine Learning at Lasalle College in Montreal, while simultaneously pursuing a Master's Degree in Big Data at IMF Smart Education. Additionally, I am developing my French language skills and expanding my business intelligence expertise, preparing myself for a career as a Data Scientist.
+Additionally, I possess solid skills in data preprocessing, feature engineering, model evaluation, and the implementation of machine learning solutions. I am committed to transforming complex data into actionable insights that drive strategic decision-making and create value. Moreover, I am enhancing my professional profile by learning French, which will enable me to engage with diverse teams and broaden my career opportunities.
 
 <p align="center">
   <a href="https://skillicons.dev">
