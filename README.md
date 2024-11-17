@@ -20,7 +20,7 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 ## 🚀 Expertise  
 - Data Preprocessing & Feature Engineering  
 - Implementation of **Convolutional Neural Networks (CNNs)** for Computer Vision tasks  
-- Computer Vision Projects: Object Detection, Team Differentiation, and Ball Tracking  
+- Computer Vision Projects: Object Detection 
 - Model Evaluation & Optimization  
 - Implementation of End-to-End Machine Learning Solutions  
 - Transforming Complex Data into Actionable Insights  
