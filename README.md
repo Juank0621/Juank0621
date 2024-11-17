@@ -18,12 +18,18 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 - **Data Analysis Tools:** Pandas, NumPy, Microsoft Excel  
 
 ## 🚀 Expertise  
-- Data Preprocessing & Feature Engineering  
-- Implementation of **Convolutional Neural Networks (CNNs)** for Computer Vision tasks  
-- Computer Vision Projects: Object Detection 
-- Model Evaluation & Optimization  
-- Implementation of End-to-End Machine Learning Solutions  
-- Transforming Complex Data into Actionable Insights  
+- **Data Preprocessing & Feature Engineering:**  
+  - Experience in preparing datasets through techniques like cleaning, normalization, and feature selection to enhance model performance.  
+- **Convolutional Neural Networks (CNNs) for Computer Vision Tasks:**  
+  - Basic understanding of CNNs and their application in tasks such as object detection and image classification, with hands-on experience in using pre-trained models.  
+- **Computer Vision Projects:**  
+  - Work in progress on projects involving **object detection**, **semantic object localization**, and **classification**, using frameworks like YOLO and TensorFlow.  
+- **Model Evaluation & Optimization:**  
+  - Familiar with evaluating models using metrics like accuracy and precision, and applying basic techniques for hyperparameter tuning.  
+- **End-to-End Machine Learning Solutions:**  
+  - Learning to design and implement pipelines that cover data preparation, model training, and evaluation.  
+- **Transforming Data into Insights:**  
+  - Skilled in using data analysis and visualization tools to derive actionable insights from complex datasets. 
 
 ## 🌍 Multilingual & Multicultural  
 I am currently learning **French** to enhance collaboration with diverse teams and broaden my career opportunities in international environments.
