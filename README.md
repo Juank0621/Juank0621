@@ -1,8 +1,39 @@
-## Hi there 👋
+## Hi there 👋  
+Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, and Computer Vision. Feel free to explore my projects and connect with me!
 
-As a dedicated Computer Engineer with over 5 years of hands-on experience in Data Analysis within the Aviation Industry and ten years working in the Colombian Aerospacial Force, I have developed a strong foundation in data-driven decision-making. Currently, I am expanding my expertise through studies in Artificial Intelligence and Machine Learning at LaSalle College, along with a Master's Degree in Big Data and Business Analytics at IMF Smart Education. My technical skill set includes proficiency in programming languages such as Python and SQL, along with knowledge of machine learning frameworks like TensorFlow and scikit-learn, as well as data visualization and relational databases.
+# 👨‍💻 Juan Garzón | Computer Engineer & Machine Learning Engineer in Progress  
+With over **5 years of experience in Data Analysis** within the **Aviation Industry** and **10 years of service** in the **Colombian Aerospace Force**, I bring a unique blend of technical expertise, analytical skills, and industry knowledge.  
 
-Additionally, I possess solid skills in data preprocessing, feature engineering, model evaluation, and the implementation of machine learning solutions. I am committed to transforming complex data into actionable insights that drive strategic decision-making and create value. Moreover, I am enhancing my professional profile by learning French, which will enable me to engage with diverse teams and broaden my career opportunities.
+Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and **Machine Learning (ML)** while pursuing:  
+- 🎓 **AI & Machine Learning Studies** at LaSalle College  
+- 🎓 **Master's Degree in Big Data and Business Analytics** at IMF Smart Education  
+
+## 🔧 Technical Skills  
+- **Programming Languages:** Python, SQL  
+- **Machine Learning Frameworks:** TensorFlow, scikit-learn  
+- **Computer Vision Tools:** OpenCV, YOLO (You Only Look Once)  
+- **Data Visualization Tools:** Matplotlib, Plotly  
+- **Relational Databases:** MySQL, PostgreSQL, SQL Server  
+- **Big Data Technologies:** Apache Hadoop, Apache Spark  
+- **Data Analysis Tools:** Pandas, NumPy, Microsoft Excel  
+
+## 🚀 Expertise  
+- Data Preprocessing & Feature Engineering  
+- Implementation of **Convolutional Neural Networks (CNNs)** for Computer Vision tasks  
+- Computer Vision Projects: Object Detection, Team Differentiation, and Ball Tracking  
+- Model Evaluation & Optimization  
+- Implementation of End-to-End Machine Learning Solutions  
+- Transforming Complex Data into Actionable Insights  
+
+## 🌍 Multilingual & Multicultural  
+I am currently learning **French** to enhance collaboration with diverse teams and broaden my career opportunities in international environments.
+
+## 🎯 My Goal  
+To leverage my skills and experience to drive **data-driven decision-making** and develop **cutting-edge AI and Computer Vision solutions** that create strategic value for organizations.
+
+## 💼 Connect with Me  
+- [GitHub](https://github.com/Juank0621)  
+- [LinkedIn](https://linkedin.com/in/juank0621)  
 
 <br><be>
 
