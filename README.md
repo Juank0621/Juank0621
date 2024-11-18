@@ -15,7 +15,8 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 - **Data Visualization Tools:** Matplotlib, Plotly  
 - **Relational Databases:** MySQL, PostgreSQL, SQL Server  
 - **Big Data Technologies:** Apache Hadoop, Apache Spark  
-- **Data Analysis Tools:** Pandas, NumPy, Microsoft Excel  
+- **Data Analysis Tools:** Pandas, NumPy, Microsoft Excel
+- **Development Environments:** JupyterLab, Google Colab  
 
 ## 🚀 Expertise  
 - **Data Preprocessing & Feature Engineering:** Experience in cleaning, normalizing, and selecting features to enhance model performance.  
