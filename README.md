@@ -1,7 +1,7 @@
 ## Hi there 👋  
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, and Computer Vision. Feel free to explore my projects and connect with me!
 
-# 🧠🤖 Juan Garzón | Computer Engineer & Machine Learning Engineer in Progress  
+# 🤖 Juan Garzón | Computer Engineer & Machine Learning Engineer in Progress  
 With over **5 years of experience in Data Analysis** within the **Aviation Industry** and **10 years of service** in the **Colombian Aerospace Force**, I bring a unique blend of technical expertise, analytical skills, and industry knowledge.  
 
 Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and **Machine Learning (ML)** while pursuing:  
