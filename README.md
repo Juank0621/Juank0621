@@ -44,10 +44,9 @@ To leverage my skills and experience to drive **data-driven decision-making** an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,py,sklearn,tensorflow,vscode,fastapi,anaconda,sqlite,ai&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,py,vscode,anaconda,fastapi,gcp,github,ubuntu,opencv,postgres,pytorch,sklearn,tensorflow" />
   </a>
 </p>
-
 <br><be>
 
 ---
