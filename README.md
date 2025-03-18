@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
 ![Python](https://badges.aleen42.com/src/python.svg)
 
-Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, and Computer Vision. Feel free to explore my projects and connect with me!
+Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
 
 # 🤖 Juan Garzón | Machine Learning Engineer  
 With over **5 years of experience in Data Analysis** within the **Aviation Industry** and **10 years of service** in the **Colombian Aerospace Force**, I bring a unique blend of technical expertise, analytical skills, and industry knowledge.  
@@ -14,22 +14,21 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 - 🎓 **Master's Degree in Big Data and Business Analytics** at IMF Smart Education  
 
 ## 🔧 Technical Skills  
-- **Programming Languages:** Python, SQL  
-- **Machine Learning Frameworks:** TensorFlow, scikit-learn  
-- **Computer Vision Tools:** OpenCV, YOLO (You Only Look Once)  
-- **Data Visualization Tools:** Matplotlib, Plotly  
-- **Relational Databases:** MySQL, PostgreSQL, SQL Server  
-- **Big Data Technologies:** Apache Hadoop, Apache Spark  
-- **Data Analysis Tools:** Pandas, NumPy, Microsoft Excel
-- **Development Environments:** JupyterLab, Google Colab  
+- **Programming & Frameworks:** Python, SQL, TensorFlow, PyTorch, Hugging Face, scikit-learn, FastAPI, Streamlit. 
+- **Big Data & Databases:** Apache Hadoop, Apache Spark, MongoDB, SQL Server, SQLite.
+- **Computer Vision:** YOLO Ultralytics, OpenCV, Hugging Face Vision Models.  
+- **NLP & LLMs:** Hugging Face Text and Multimodal Models. 
+- **Development Tools:** JupyterLab, Google Colab, VS Code (Windows/Linux). 
 
 ## 🚀 Expertise  
+- **End-to-End Machine Learning Solutions:** Experience designing complete pipelines from data preparation to model deployment and evaluation.  
 - **Data Preprocessing & Feature Engineering:** Experience in cleaning, normalizing, and selecting features to enhance model performance.  
-- **Convolutional Neural Networks (CNNs):** Basic understanding and application in object detection and image classification using pre-trained models.  
-- **Computer Vision Projects:** Work in progress involving object detection, semantic object localization, and classification with YOLO and TensorFlow.  
-- **Model Evaluation & Optimization:** Familiar with metrics like accuracy and precision, and basic hyperparameter tuning techniques.  
-- **End-to-End Machine Learning Solutions:** Learning to design pipelines covering data preparation, model training, and evaluation.  
-- **Transforming Data into Insights:** Skilled in data analysis and visualization to extract actionable insights.  
+- **Transforming Data into Insights:** Skilled in exploratory data analysis and visualization to extract actionable insights.  
+- **Convolutional Neural Networks (CNNs):** Application of CNNs in object detection and image classification using pre-trained models.  
+- **Computer Vision Projects:** Hands-on work involving object detection, semantic segmentation, and classification with YOLO and PyTorch.  
+- **Natural Language Processing & LLMs:** Practical understanding of NLP tasks such as text classification, summarization, and information extraction. Experience working with Large Language Models (LLMs) like GEMINI for downstream applications.  
+- **AI Agents:** Experience designing AI agents powered by LLMs for tasks like conversational interfaces, automation, and decision-making systems.  
+- **Model Evaluation & Optimization:** Proficient in using metrics such as accuracy, precision, and recall. Experience with hyperparameter optimization using frameworks like Optuna for efficient model tuning.
 
 ## 🌍 Multilingual & Multicultural  
 I am currently learning **French** to enhance collaboration with diverse teams and broaden my career opportunities in international environments.
