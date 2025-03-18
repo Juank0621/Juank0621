@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
 
-# 🤖 Juan Garzón | Machine Learning and Computer Vision Engineer  
+# Juan Garzón | Machine Learning and Computer Vision Engineer  
 I am a Computer Engineer with over **5 years of experience in Data Analysis** within the **Colombian Aeroespacial Force** and **2 years in Artificial Intelligence**. I bring a unique blend of technical expertise, analytical skills, and industry knowledge. 
 
 <br>
