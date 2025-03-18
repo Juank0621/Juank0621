@@ -51,7 +51,7 @@ To leverage my skills and experience to drive **data-driven decision-making** an
 - [GitHub](https://github.com/Juank0621)  
 - [LinkedIn](https://www.linkedin.com/in/juancarlosgarzon)  
 
-<br><be>
+<br>
 
 ---
 
