@@ -24,7 +24,7 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 ## 🔧 Technical Skills  
 - **Programming & Frameworks:** Python, SQL, TensorFlow, PyTorch, Hugging Face, scikit-learn, FastAPI, Streamlit. 
 - **Big Data & Databases:** Apache Hadoop, Apache Spark, MongoDB, SQL Server, SQLite.
-- **Computer Vision:** YOLO Ultralytics, OpenCV, Hugging Face Vision Models.  
+- **Computer Vision:** Ultralytics YOLO, OpenCV, Hugging Face Vision Models.  
 - **NLP & LLMs:** Hugging Face Text and Multimodal Models. 
 - **Development Tools:** JupyterLab, Google Colab, VS Code (Windows/Linux). 
 
