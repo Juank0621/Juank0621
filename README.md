@@ -4,18 +4,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
 ![Python](https://badges.aleen42.com/src/python.svg)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,py,anaconda,vscode,gcp,postgres,fastapi,pytorch,tensorflow,sklearn,opencv,git,github" />
-  </a>
-</p>
-
 ---
 
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
 
 # 🤖 Juan Garzón | Machine Learning Engineer  
 With over **5 years of experience in Data Analysis** within the **Aviation Industry** and **10 years of service** in the **Colombian Aerospace Force**, I bring a unique blend of technical expertise, analytical skills, and industry knowledge.  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,py,anaconda,vscode,gcp,postgres,fastapi,pytorch,tensorflow,sklearn,opencv,git,github" />
+  </a>
+</p>
 
 Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and **Machine Learning (ML)** while pursuing:  
 - 🎓 **AI & Machine Learning Studies** at LaSalle College  
