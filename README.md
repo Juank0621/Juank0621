@@ -4,14 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
 ![Python](https://badges.aleen42.com/src/python.svg)
 
-<br><be>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,py,anaconda,vscode,gcp,postgres,fastapi,pytorch,tensorflow,sklearn,opencv,git,github" />
   </a>
 </p>
-<br><be>
 
 ---
 
