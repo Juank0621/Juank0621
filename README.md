@@ -4,6 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
 ![Python](https://badges.aleen42.com/src/python.svg)
 
+<br><be>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,py,anaconda,vscode,gcp,postgres,fastapi,pytorch,tensorflow,sklearn,opencv,git,github" />
+  </a>
+</p>
+<br><be>
+
+---
+
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
 
 # 🤖 Juan Garzón | Machine Learning Engineer  
@@ -40,13 +51,6 @@ To leverage my skills and experience to drive **data-driven decision-making** an
 - [GitHub](https://github.com/Juank0621)  
 - [LinkedIn](https://www.linkedin.com/in/juancarlosgarzon)  
 
-<br><be>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,py,anaconda,vscode,gcp,postgres,fastapi,pytorch,tensorflow,sklearn,opencv,git,github" />
-  </a>
-</p>
 <br><be>
 
 ---
