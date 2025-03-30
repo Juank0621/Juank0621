@@ -48,6 +48,11 @@ To leverage my skills and experience to drive **data-driven decision-making** an
 - [GitHub](https://github.com/Juank0621)  
 - [LinkedIn](https://www.linkedin.com/in/juancarlosgarzon)  
 
+[<img src="readme_files/huggingface_mini.svg" alt="huggingface" height=40>](https://huggingface.co)
+[<img src="readme_files/python.svg" alt="python" height=40>](https://www.python.org)
+[<img src="readme_files/fastapi.svg" alt="fastapi" height=40>](https://fastapi.tiangolo.com)
+[<img src="readme_files/vite.svg" alt="vite" height=40>](https://vitejs.dev)
+
 <br>
 
 ---
