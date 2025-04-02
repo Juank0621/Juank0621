@@ -5,7 +5,7 @@
 ![Python](https://badges.aleen42.com/src/python.svg)
 
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://huggingface.co">
     <img src="readme_files/huggingface_mini.svg" alt="huggingface" height="40">
   </a>
