@@ -7,7 +7,6 @@
 [<img src="readme_files/huggingface_mini.svg" alt="huggingface" height=40>](https://huggingface.co)
 [<img src="readme_files/python.svg" alt="python" height=40>](https://www.python.org)
 [<img src="readme_files/fastapi.svg" alt="fastapi" height=40>](https://fastapi.tiangolo.com)
-[<img src="readme_files/vite.svg" alt="vite" height=40>](https://vitejs.dev)
 
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
 
