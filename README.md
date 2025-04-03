@@ -4,19 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
 ![Python](https://badges.aleen42.com/src/python.svg)
 
-
-<p align="center">
-  <a href="https://huggingface.co">
-    <img src="readme_files/huggingface_mini.svg" alt="huggingface" height="40">
-  </a>
-  <a href="https://www.python.org">
-    <img src="readme_files/python.svg" alt="python" height="40">
-  </a>
-  <a href="https://fastapi.tiangolo.com">
-    <img src="readme_files/fastapi.svg" alt="fastapi" height="40">
-  </a>
-</p>
-
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
 
 ## Juan Carlos Garzon | Machine Learning and Computer Vision Engineer  
