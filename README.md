@@ -11,9 +11,27 @@ I am a Computer Engineer with over **5 years of experience in Data Analysis** wi
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,py,anaconda,vscode,gcp,postgres,fastapi,pytorch,tensorflow,sklearn,opencv,git,github" />
-  </a>
+  <img src="readme_files/Ubuntu.svg" alt="Ubuntu" width="50" height="50">
+  <img src="readme_files/VSCode.svg" alt="VS Code" width="50" height="50">
+  <img src="readme_files/Colab.svg" alt="Colab" width="50" height="50"> 
+  <img src="readme_files/cursor.svg" alt="cursor" width="50" height="50">
+  <img src="readme_files/Jupyter.svg" alt="Jupyter" width="50" height="50"> 
+  <img src="readme_files/Python.svg" alt="Python" width="50" height="50">
+  <img src="readme_files/FastAPI.svg" alt="FastAPI" width="50" height="50">
+  <img src="readme_files/PyTorch.svg" alt="PyTorch" width="50" height="50">
+  <img src="readme_files/TensorFlow.svg" alt="TensorFlow" width="50" height="50">
+  <img src="readme_files/scikit-learn.svg" alt="scikit-learn" width="50" height="50">
+  <img src="readme_files/HF.svg" alt="Hugging Face" width="50" height="50">
+  <img src="readme_files/Langchain.svg" alt="Langchain" width="50" height="50"> 
+  <img src="readme_files/langgraph.svg" alt="LangGraph" width="50" height="50"> 
+  <img src="readme_files/Llamaindex.svg" alt="LlamaIndex" width="50" height="50"> 
+  <img src="readme_files/mcp.svg" alt="MCP" width="50" height="50">
+  <img src="readme_files/MongoDB.svg" alt="MongoDB" width="50" height="50">
+  <img src="readme_files/PostgreSQL.svg" alt="PostgreSQL" width="50" height="50">
+  <img src="readme_files/Git.svg" alt="Git" width="50" height="50">
+  <img src="readme_files/Jira.svg" alt="Jira" width="50" height="50">  
+  <img src="readme_files/GoogleCloud.svg" alt="Google Cloud" width="50" height="50">
+  <img src="readme_files/AWS.svg" alt="AWS" width="50" height="50"> 
 </p>
 <br>
 
