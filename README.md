@@ -2,7 +2,6 @@
 
 [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Juank0621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
-![Python](https://badges.aleen42.com/src/python.svg)
 
 Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Processing, Computer Vision, and the development of AI Agents powered by Large Language Models. Feel free to explore my projects and connect with me!
 
