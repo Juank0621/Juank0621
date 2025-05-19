@@ -21,13 +21,13 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 - **Development Tools:** JupyterLab, Google Colab, VS Code (Windows/Linux), LangGraph, LangChain, LlamaIndex. 
 
 ## 🚀 Expertise  
-- **End-to-End AI Solutions:** Experience designing and deploying complete AI pipelines from data preparation to model deployment, including MLOps practices and model serving.
+- **End-to-End AI Solutions:** Experience designing and implementing complete AI pipelines from data preparation to model development and evaluation.
 - **Computer Vision & Deep Learning:** Extensive experience in object detection, semantic segmentation, and image classification using state-of-the-art models like YOLO, CNNs, and Vision Transformers. Proficient in implementing custom computer vision solutions using PyTorch.
 - **Generative AI & Image Generation:** Hands-on experience with GANs and VAEs for image generation and manipulation. Skilled in implementing and fine-tuning generative models for creative applications.
 - **AI Agents & LLM Applications:** Expertise in developing intelligent agents using LangChain, LangGraph, and LlamaIndex. Experience in building conversational AI systems, automation tools, and decision-making systems powered by Large Language Models.
 - **Natural Language Processing:** Practical experience in text classification, summarization, and information extraction using modern NLP techniques and transformer-based models.
-- **Data Engineering & MLOps:** Proficient in data preprocessing, feature engineering, and building robust data pipelines. Experience with model versioning, monitoring, and deployment using modern MLOps tools.
-- **Model Optimization & Performance:** Skilled in model evaluation, hyperparameter optimization, and performance tuning. Experience in model quantization and optimization for production deployment.
+- **Data Engineering & Model Development:** Proficient in data preprocessing, feature engineering, and building robust data pipelines. Experience in model development and evaluation using modern AI tools and frameworks.
+- **Model Optimization & Performance:** Skilled in model evaluation, hyperparameter optimization, and performance tuning. Experience in model optimization for improved performance.
 
 ## 🌍 Multilingual & Multicultural  
 I am currently learning **French** to enhance collaboration with diverse teams and broaden my career opportunities in international environments.
