@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
 ![Python](https://badges.aleen42.com/src/python.svg)
 
-Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Procesing, and Computer Vision. Feel free to explore my projects and connect with me!
+Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Processing, Computer Vision, and the development of AI Agents powered by Large Language Models. Feel free to explore my projects and connect with me!
 
-## Juan Carlos Garzon | Machine Learning and Computer Vision Engineer  
+## Juan Carlos Garzon | Computer Vision Engineer and AI Developer
 I am a Computer Engineer with over **5 years of experience in Data Analysis** within the **Colombian Aerospace Force** and **2 years** in **Artificial Intelligence**. I bring a unique blend of technical expertise, analytical skills, and industry knowledge. 
 
 Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and **Machine Learning (ML)** while pursuing:  
@@ -22,14 +22,13 @@ Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and *
 - **Development Tools:** JupyterLab, Google Colab, VS Code (Windows/Linux), LangGraph, LangChain, LlamaIndex. 
 
 ## 🚀 Expertise  
-- **End-to-End Machine Learning Solutions:** Experience designing complete pipelines from data preparation to model deployment and evaluation.  
-- **Data Preprocessing & Feature Engineering:** Experience in cleaning, normalizing, and selecting features to enhance model performance.  
-- **Transforming Data into Insights:** Skilled in exploratory data analysis and visualization to extract actionable insights.  
-- **Convolutional Neural Networks (CNNs):** Application of CNNs in object detection and image classification using pre-trained models.  
-- **Computer Vision Projects:** Hands-on work involving object detection, semantic segmentation, and classification with YOLO and PyTorch.  
-- **Natural Language Processing & LLMs:** Practical understanding of NLP tasks such as text classification, summarization, and information extraction. Experience working with Large Language Models (LLMs) like GEMINI for downstream applications.  
-- **AI Agents:** Experience designing AI agents powered by LLMs for tasks like conversational interfaces, automation, and decision-making systems.  
-- **Model Evaluation & Optimization:** Proficient in using metrics such as accuracy, precision, and recall. Experience with hyperparameter optimization using frameworks like Optuna for efficient model tuning.
+- **End-to-End AI Solutions:** Experience designing and deploying complete AI pipelines from data preparation to model deployment, including MLOps practices and model serving.
+- **Computer Vision & Deep Learning:** Extensive experience in object detection, semantic segmentation, and image classification using state-of-the-art models like YOLO, CNNs, and Vision Transformers. Proficient in implementing custom computer vision solutions using PyTorch.
+- **Generative AI & Image Generation:** Hands-on experience with GANs and VAEs for image generation and manipulation. Skilled in implementing and fine-tuning generative models for creative applications.
+- **AI Agents & LLM Applications:** Expertise in developing intelligent agents using LangChain, LangGraph, and LlamaIndex. Experience in building conversational AI systems, automation tools, and decision-making systems powered by Large Language Models.
+- **Natural Language Processing:** Practical experience in text classification, summarization, and information extraction using modern NLP techniques and transformer-based models.
+- **Data Engineering & MLOps:** Proficient in data preprocessing, feature engineering, and building robust data pipelines. Experience with model versioning, monitoring, and deployment using modern MLOps tools.
+- **Model Optimization & Performance:** Skilled in model evaluation, hyperparameter optimization, and performance tuning. Experience in model quantization and optimization for production deployment.
 
 ## 🌍 Multilingual & Multicultural  
 I am currently learning **French** to enhance collaboration with diverse teams and broaden my career opportunities in international environments.
