@@ -1,50 +1,79 @@
-## Hi there 👋  
+<div align="center">
+  <h1>👋 Hi, I'm Juan Carlos Garzon</h1>
+  <h3>🚀 AI & ML Engineer | Computer Vision Specialist | Data Scientist</h3>
+</div>
 
-[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Juank0621)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juancarlosgarzon)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosgarzon)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juank0621)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://juangarzon.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@juangarzon.me)
 
-Welcome to my GitHub! I'm passionate about Machine Learning, Artificial Intelligence, Natural Language Processing, Computer Vision, and the development of AI Agents powered by Large Language Models. Feel free to explore my projects and connect with me!
-
-## Juan Carlos Garzon | Computer Vision Engineer and AI Developer
-I am a Computer Engineer with over **5 years of experience in Data Analysis** within the **Colombian Aerospace Force** and **2 years** in **Artificial Intelligence**. I bring a unique blend of technical expertise, analytical skills, and industry knowledge. 
-
-Currently, I am expanding my expertise in **Artificial Intelligence (AI)** and **Machine Learning (ML)** while pursuing:  
-- 🎓 **AI & Machine Learning Studies** at LaSalle College  
-- 🎓 **Master's Degree in Big Data and Business Analytics** at IMF Smart Education  
-
-## 🔧 Technical Skills  
-- **Programming & Frameworks:** Python, SQL, TensorFlow, PyTorch, Hugging Face, scikit-learn, FastAPI, Streamlit. 
-- **Big Data & Databases:** MongoDB, PostgreSQL, SQL Server, SQLite.
-- **Computer Vision:** Ultralytics YOLO, Roboflow, OpenCV, Hugging Face Vision Models.  
-- **NLP & LLMs:** Hugging Face Text and Multimodal Models, development of AI Agents using LLMs.
-- **Generative AI:** Experience with image generation using GANs and VAEs.
-- **Development Tools:** JupyterLab, Google Colab, VS Code (Windows/Linux), LangGraph, LangChain, LlamaIndex. 
-
-## 🚀 Expertise  
-- **End-to-End AI Solutions:** Experience designing and implementing complete AI pipelines from data preparation to model development and evaluation.
-- **Computer Vision & Deep Learning:** Extensive experience in object detection, semantic segmentation, and image classification using state-of-the-art models like YOLO, CNNs, and Vision Transformers. Proficient in implementing custom computer vision solutions using PyTorch.
-- **Generative AI & Image Generation:** Hands-on experience with GANs and VAEs for image generation and manipulation. Skilled in implementing and fine-tuning generative models for creative applications.
-- **AI Agents & LLM Applications:** Expertise in developing intelligent agents using LangChain, LangGraph, and LlamaIndex. Experience in building conversational AI systems, automation tools, and decision-making systems powered by Large Language Models.
-- **Natural Language Processing:** Practical experience in text classification, summarization, and information extraction using modern NLP techniques and transformer-based models.
-- **Data Engineering & Model Development:** Proficient in data preprocessing, feature engineering, and building robust data pipelines. Experience in model development and evaluation using modern AI tools and frameworks.
-- **Model Optimization & Performance:** Skilled in model evaluation, hyperparameter optimization, and performance tuning. Experience in model optimization for improved performance.
-
-## 🌍 Multilingual & Multicultural  
-I am currently learning **French** to enhance collaboration with diverse teams and broaden my career opportunities in international environments.
-
-## 🎯 My Goal  
-To leverage my skills and experience to drive **data-driven decision-making** and develop **cutting-edge AI and Computer Vision solutions** that create strategic value for organizations.
-
-## 💼 Connect with Me  
-- [GitHub](https://github.com/Juank0621)  
-- [LinkedIn](https://www.linkedin.com/in/juancarlosgarzon)  
-
-<br>
+</div>
 
 ---
 
-<br>
+## 🧑‍💻 About Me
+
+I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and **2+ years in AI/ML**. Currently based in **Montreal, Canada**, I specialize in building intelligent systems using cutting-edge AI technologies.
+
+- 🔭 Currently working on **Computer Vision** projects with **YOLO** and **Hugging Face**
+- 🌱 Pursuing **AI & ML** studies at **LaSalle College** and **Master's in Big Data** at **IMF Smart Education**
+- 🎯 Passionate about **AI Agents**, **Computer Vision**, and **Generative AI**
+- 🌍 **Multilingual**: English, Spanish (native), French (learning)
+- 📍 **Location**: Montreal, Canada
+
+## 📄 Resume
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juank0621&theme=tokyonight&show_icons=true&rank_icon=github" alt="Juank0621 GitHub stats">
+
+[![Download Resume (EN)](https://img.shields.io/badge/Download%20Resume%20(EN)-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Juank0621/my-portfolio-react/raw/main/public/files/Juan_Carlos_Garzon_Resume_en.pdf)
+[![Download Resume (FR)](https://img.shields.io/badge/Download%20Resume%20(FR)-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Juank0621/my-portfolio-react/raw/main/public/files/Juan_Carlos_Garzon_Resume_fr.pdf)
+
+</div>
+
+## 🛠️ Tech Stack
+
+### Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🎯 Expertise
+
+- 🤖 **AI Agents & LLMs**: LangChain, LangGraph, LlamaIndex
+- 👁️ **Computer Vision**: Object Detection (YOLO), Image Classification, Segmentation
+- 🎨 **Generative AI**: GANs, VAEs, Image Generation
+- 📊 **Data Science**: End-to-end ML pipelines, Model Optimization
+- 🛠️ **MLOps**: Model Deployment, Performance Monitoring
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juank0621&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juank0621&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
