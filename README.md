@@ -40,7 +40,7 @@ I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and
 ### Programming & Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azure sql database logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 <img width="12" />
@@ -60,6 +60,8 @@ I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo"  />
@@ -72,6 +74,8 @@ I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
 
 </div>
 
