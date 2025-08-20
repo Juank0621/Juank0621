@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Juan Carlos Garzon</h1>
-  <h3>🚀 AI & ML Engineer | Computer Vision Specialist | Data Scientist</h3>
+<h3>🚀 AI & ML Engineer (Specialized in Computer Vision) | Data Scientist | Data Analyst</h3>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and **2+ years in AI/ML**. Currently based in **Montreal, Canada**, I specialize in building intelligent systems using cutting-edge AI technologies.
 
 - 🔭 Currently working on **Computer Vision** projects with **YOLO** and **Hugging Face**
-- 🌱 Pursuing **AI & ML** studies at **LaSalle College** and **Master's in Big Data** at **IMF Smart Education**
+- ✅ Completed **AI & ML** studies at **LaSalle College** and a **Master's in Big Data** at **IMF Smart Education**
 - 🎯 Passionate about **AI Agents**, **Computer Vision**, and **Generative AI**
 - 🌍 **Multilingual**: English, Spanish (native), French (learning)
 - 📍 **Location**: Montreal, Canada
