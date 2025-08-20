@@ -7,7 +7,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosgarzon)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juank0621)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://juangarzon.me)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://juangarzon.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@juangarzon.me)
 
 </div>
@@ -62,11 +62,11 @@ I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and
 
 ## 🎯 Expertise
 
-- 🤖 **AI Agents & LLMs**: LangChain, LangGraph, LlamaIndex
-- 👁️ **Computer Vision**: Object Detection (YOLO), Image Classification, Segmentation
-- 🎨 **Generative AI**: GANs, VAEs, Image Generation
-- 📊 **Data Science**: End-to-end ML pipelines, Model Optimization
-- 🛠️ **MLOps**: Model Deployment, Performance Monitoring
+- 🤖 **Generative AI & NLP**: LLM APIs (OpenAI, Claude, Gemini), Hugging Face Transformers, LangGraph, Agent Development
+- 👁️ **Computer Vision**: Ultralytics YOLO, Object Detection, Image Classification, OpenCV, Roboflow
+- 📊 **Data Science**: End-to-end ML pipelines, Statistical Analysis, Model Optimization, Big Data (PySpark)
+- 🚀 **Backend Development**: FastAPI, Streamlit Dashboards, API Integration, Scalable Systems
+- 🛠️ **MLOps & Cloud**: Model Deployment, Azure, Google Cloud Platform, Performance Monitoring
 
 ## 📊 GitHub Stats
 
