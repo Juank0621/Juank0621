@@ -1,10 +1,13 @@
 <div align="center">
+
   <h1>👋 Hi, I'm Juan Carlos Garzon</h1>
-<h3>🚀 Data Analyst | Data Scientist | AI & ML Engineer (Specialized in Computer Vision)</h3>
+
+  <h3>📊 Data Analyst | Data Developer | Business Intelligence Specialist</h3>
+
 </div>
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosgarzon)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juank0621)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://juangarzon.me)
@@ -16,12 +19,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and **2+ years in AI/ML**. Currently based in **Montreal, Canada**, I specialize in building intelligent systems using cutting-edge AI technologies.
+I'm a **Computer Engineer** with **5+ years of experience in Data Analytics** within the aerospace industry and **2+ years in Data Science and Machine Learning**. Currently based in **Montreal, Canada**, I specialize in building scalable data solutions and analytics systems.
 
-- 🔭 Currently working on **Computer Vision** projects with **YOLO** and **Hugging Face**
-- ✅ Completed **AI & ML** studies at **LaSalle College** and a **Master's in Big Data** at **IMF Smart Education**
-- 🎯 Passionate about **AI Agents**, **Computer Vision**, and **Generative AI**
-- 🌍 **Multilingual**: English, Spanish (native), French (learning)
+- 🔭 Currently working on **data pipeline development** and **cloud migration projects**
+- ✅ Completed a **Master's in Big Data and Business Analytics** and **AI & ML studies** at **LaSalle College**
+- 🎯 Passionate about **Data Analytics**, **ETL/ELT processes**, and **Cloud Data Solutions**
+- 🌍 **Multilingual**: English (Professional), Spanish (Native), French (Professional)
 - 📍 **Location**: Montreal, Canada
 
 ## 📄 Resume
@@ -37,62 +40,68 @@ I'm a **Computer Engineer** with **9+ years of experience in Data Analysis** and
 
 <div align="center">
 
-### Programming & Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azure sql database logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo"  />
+### Programming & Data Processing
 
-### AI & Machine Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo"  />
 
-### Databases & Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo"  />
+### Analytics & Business Intelligence
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+
+### Databases & Cloud Platforms
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sql server logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
 
 ### Development Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 
 </div>
 
 ## 🎯 Expertise
 
-- 🤖 **Generative AI & NLP**: LLM APIs (OpenAI, Claude, Gemini), Hugging Face Transformers, LangGraph, Agent Development
-- 👁️ **Computer Vision**: Ultralytics YOLO, Object Detection, Image Classification, OpenCV, Roboflow
-- 📊 **Data Science**: End-to-end ML pipelines, Statistical Analysis, Model Optimization, Big Data (PySpark)
-- 🚀 **Backend Development**: FastAPI, Streamlit Dashboards, API Integration, Scalable Systems
-- 🛠️ **MLOps & Cloud**: Model Deployment, Azure, Google Cloud Platform, Performance Monitoring
+- 📊 **Data Analytics & Reporting**: SQL Server, Power BI, Tableau, Excel, dashboard development, KPI tracking
+- 🔄 **ETL/ELT Pipelines**: Python, data transformation processes, automated workflows, data quality management
+- ☁️ **Cloud Data Solutions**: AWS, Microsoft Azure, Snowflake, cloud data architecture, migration strategies
+- 🛠️ **Data Engineering**: Scalable data pipelines, FastAPI, Docker, Git, software design best practices
+- 📈 **Business Intelligence**: Data visualization, analytical frameworks, predictive modeling, decision support systems
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Juank0621&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+
 </div>
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juank0621&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
 </div>
