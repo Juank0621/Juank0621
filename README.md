@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Juan Carlos Garzon</h1>
-<h3>🚀 AI & ML Engineer (Specialized in Computer Vision) | Data Scientist | Data Analyst</h3>
+<h3>🚀 Data Analyst | Data Scientist | AI & ML Engineer (Specialized in Computer Vision)</h3>
 </div>
 
 <div align="center">
