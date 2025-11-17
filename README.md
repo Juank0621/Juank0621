@@ -52,7 +52,7 @@ I'm a **Computer Engineer** with **5+ years of experience in Data Analytics** wi
 
 ### Analytics & Business Intelligence
 
-  <img src="https://img.icons8.com/color/452/power-bi.png" height="40" alt="power bi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="apache spark logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/color/452/tableau-software.png" height="40" alt="tableau logo"  />
   <img width="12" />
