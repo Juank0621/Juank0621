@@ -88,16 +88,3 @@ I'm a **Computer Engineer** with **5+ years of experience in Data Analytics** wi
 - 🛠️ **Data Engineering**: Scalable data pipelines, FastAPI, Docker, Git, software design best practices
 - 📈 **Business Intelligence**: Data visualization, analytical frameworks, predictive modeling, decision support systems
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Juank0621&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juank0621&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
